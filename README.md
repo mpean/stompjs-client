@@ -1,0 +1,2 @@
+Stomp js client test
+====================
